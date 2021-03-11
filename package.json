@@ -1,0 +1,25 @@
+{
+  "name": "04-Node-todoapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanalopezsuarez/04-Node-todoapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanalopezsuarez/04-Node-todoapp/issues"
+  },
+  "homepage": "https://github.com/johanalopezsuarez/04-Node-todoapp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
